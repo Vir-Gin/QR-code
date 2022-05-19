@@ -1,0 +1,14 @@
+
+.card{
+    margin: 100px auto; 
+    float: none;
+    margin-bottom: 10px;
+    border: rounded;
+}
+.container{
+    font-size: 11px;
+}
+.h5{
+    font-weight: 700;
+    justify-content: left;
+}
